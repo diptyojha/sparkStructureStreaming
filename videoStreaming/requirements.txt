@@ -1,6 +1,6 @@
 numpy
 PIL
 py4j==0.10.7
-pyspark==2.4.5
+pyspark==3.2.2
 opencv-utils
 opencv-python
